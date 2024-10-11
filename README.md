@@ -1,4 +1,14 @@
-## Hi there 👋
+[🇺🇸 English](#english-version) | [🇧🇷 Português](#versao-em-portugues)
+
+## English Version
+
+# Hello, World!
+
+## Versão em Português
+
+# Olá, Mundo!
+
+<!-- links de socials, contato ,linkedin, o que eu ja trabalhei, tecnologias que eu sei usar ... -->
 
 <!--
 **nogsposito/nogsposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
