@@ -2,7 +2,7 @@
 
 ### English Version 🇺🇸
 
-# Hello, World!
+# Hello, World! 🌍
 
 My name is Vinicius Spósito, i'm 18 year old and a computer science student enrolled in [Cesar School's](cesar.school) Computer Science course. I'm currently located in Brazil (Recife) and **i'm actively seeking job and internship opportunities for my growth in the technology field. I'm very flexible, dedicated, and willing to learn and work.**
 
