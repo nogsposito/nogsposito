@@ -1,4 +1,4 @@
-[🇺🇸 English Version](github.com/nogsposito/perfil-publico/blob/main/README_EN.md) | [🇧🇷 Versão em Português](github.com/nogsposito/perfil-publico/blob/main/README_PT.md)
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](README_PT.md)
 
 ### English Version 🇺🇸
 
