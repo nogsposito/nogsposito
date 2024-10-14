@@ -1,10 +1,10 @@
 [🇺🇸 English](#english-version) | [🇧🇷 Português](#versao-em-portugues)
 
-## English Version
+### English Version
 
 # Hello, World!
 
-## Versão em Português
+### Versão em Português
 
 # Olá, Mundo!
 
