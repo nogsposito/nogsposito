@@ -1,6 +1,4 @@
-[🇺🇸 English](#english-version) | [🇧🇷 Português](#versao-em-portugues)
-
-### English Version
+### English Version 🇺🇸
 
 # Hello, World!
 
@@ -12,7 +10,7 @@ So far, you can check some public repositories i own or collaborated to pinned i
 
 Feel free to get in touch or connect with me through my **e-mail (viniciussposito3103@gmail.com) or [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-sp%C3%B3sito-6703bb321/).**
 
-### Versão em Português
+### Versão em Português 🇧🇷
 
 # Olá, Mundo!
 
