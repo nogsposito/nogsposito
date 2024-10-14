@@ -20,7 +20,7 @@ Eu já tive extensas experiências com as linguagens **C, C++, Python, JavaScrip
 
 Até agora, você pode dar uma olhada nos repositórios que eu possuo ou já fui colaborador no meu perfil; como o [TECMO](https://github.com/Caldas42/TECMO), o qual eu e parceiros da faculdade trabalhamos no desenvolvimento de **um briquedo usando Arduino e C++**, ou o [Receitopédia](https://github.com/Caldas42/Receitopedia), o qual desenvolvemos uma aplicação de gerenciamento de receitas, ou o [Fábrica de Ideias](https://github.com/nogsposito/Projetos2-Cesar), o qual desenvolvemos uma aplicação de gerenciamento de registro de cadastros **feitos em um chatbot do Whatsapp, os quais nos dois usamos Django junto com Python, HTML e CSS e tendo feito deploy na Azure.**
 
-Se sinta a vontade de me contatar ou conectar comigo via meu **e-mail (viniciussposito3103@gmail.com) ou [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-sp%C3%B3sito-6703bb321/)**
+Se sinta a vontade de me contatar ou conectar comigo via meu **e-mail (viniciussposito3103@gmail.com) ou [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-sp%C3%B3sito-6703bb321/).**
 <!-- links de socials, contato ,linkedin, o que eu ja trabalhei, tecnologias que eu sei usar ... -->
 
 <!--
