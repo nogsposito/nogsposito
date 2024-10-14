@@ -1,3 +1,5 @@
+[🇺🇸 English Version](github.com/nogsposito/perfil-publico/blob/main/README_EN.md) | [🇧🇷 Versão em Português](github.com/nogsposito/perfil-publico/blob/main/README_PT.md)
+
 ### English Version 🇺🇸
 
 # Hello, World!
