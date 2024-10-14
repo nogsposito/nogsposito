@@ -2,7 +2,7 @@
 
 ### Versão em Português 🇧🇷
 
-# Olá, Mundo!
+# Olá, Mundo! 🌍
 
 Meu nome é Vinícius Spósito, eu tenho 18 anos e sou um estudante do curso de Ciência da Computação da [Cesar School](cesar.school). Eu estou atualmente morando em Recife, Pernambuco e **estou ativamente procurando oportunidades de trabalho e estágio em prol do meu crescimento na área de tecnologia. Sou muito flexível, dedicado e tenho muita força de vontade para trabalhar e estudar.**
 
