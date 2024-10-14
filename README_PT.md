@@ -1,3 +1,5 @@
+[🇺🇸 English Version](README.md) | [🇧🇷 Versão em Português](README_PT.md)
+
 ### Versão em Português 🇧🇷
 
 # Olá, Mundo!
